@@ -1,0 +1,45 @@
+Board Information Report
+Filename     : D:\Masoud\TEMP_HUMIDITY_INDICATOR\RHT.PcbDoc
+Date         : 2022-09-01
+Time         : 2:02:21 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 60mmx60mm
+    Components on board, 64
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 156
+    Connections routed, 156
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 24, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 174, 0
+    0.5mm, 0, 33
+    0.8mm, 20, 0
+    1mm, 18, 0
+    1.016mm, 2, 0
+    1.3mm, 4, 0
+    1.7mm, 2, 0
+    3.5mm, 4, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Net Via Size, Count
+    1mm, 55
+count : 1
